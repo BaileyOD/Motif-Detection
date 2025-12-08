@@ -16,6 +16,19 @@ This pipeline:
 
 ---
 
+## Requirements / Dependencies
+
+This project uses the following Python libraries:
+
+- Biopython
+- pandas
+- matplotlib
+- seaborn
+**Install Using**
+  ```bash
+pip install -r requirements.txt
+---
+
 ## Example Motifs Used
 ```python
 motifs = ["ATG", "TAT", "CGC"]
