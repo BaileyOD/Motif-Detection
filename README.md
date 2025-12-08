@@ -8,11 +8,11 @@ This project performs **motif frequency analysis**, **base composition analysis*
 
 This pipeline:
 
-🔎 Parses a FASTA file using **Biopython**  
-🧬 Counts occurrences of target DNA motifs  
-📊 Calculates motif **density** (motif count per sequence length)  
-🧪 Computes **GC and AT content** percentages  
-🌡️ Visualizes motif density with a **clustered heatmap** (Seaborn)
+1. Parses a FASTA file using **Biopython**  
+2. Counts occurrences of target DNA motifs  
+3. Calculates motif **density** (motif count per sequence length)  
+4. Computes **GC and AT content** percentages  
+5. Visualizes motif density with a **clustered heatmap** (Seaborn)
 
 ---
 
