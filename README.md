@@ -59,7 +59,6 @@ project_folder/
 ├── data/
 │   └── example_sequences.fasta   # Input DNA sequences
 ├── dna_motif_analysis.py         # Main script
-├── heatmaps/                     # Generated heatmap images
 └── README.md
 ```
 ## Future Improvements 
