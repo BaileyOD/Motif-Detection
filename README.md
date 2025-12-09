@@ -5,7 +5,7 @@ A Python tool to analyze DNA sequences for specific motifs, calculate GC and AT 
 
 ## Overview
 
-This project allows users to input a FASTA file containing DNA sequences. The script scans each sequence for specific motifs, calculates motif counts and densities, computes GC and AT content, and generates a clustered heatmap of motif densities across sequences. It is suitable for motif discovery, genomic feature analysis, and educational purposes.
+This project allows users to input a FASTA file containing DNA sequences. The script scans each sequence for specific motifs, calculates motif counts and densities, computes GC and AT content, and generates a clustered heatmap of motif densities across sequences. It is suitable for motif discovery, genomic feature analysis, and educational purposes. 
 
 ---
 
