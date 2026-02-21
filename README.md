@@ -72,4 +72,4 @@ This is a display of Basic skills, howvever
 
  ## Author
  Bailey O'Donnell
- https://github.com/%3Cyour-github-BaileyOD
+ https://github.com/BaileyOD
