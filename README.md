@@ -62,7 +62,6 @@ project_folder/
 └── README.md
 ```
 ## Future Improvements 
-This is a display of Basic skills, howvever
 - Motif Discovery
 - genome annotations
 - Export results to CSV/Excel
